@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listOfPeople>
+    <listOfPeople>
+        <DNI>14668580P</DNI>
+        <nombre>Antonio Iglesias Hornos</nombre>
+        <sexo>hombre</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>57476747T</DNI>
+        <nombre>Teresa Garcia Bermudez</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>00459095S</DNI>
+        <nombre>Teresa Iglesias Rodríguez</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>46900478M</DNI>
+        <nombre>José Rajoy Iglesias</nombre>
+        <sexo>hombre</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>11241925P</DNI>
+        <nombre>Alvaro Escobar Escobar</nombre>
+        <sexo>hombre</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>01008513D</DNI>
+        <nombre>Teresa Bermudez Hornos</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>02884003X</DNI>
+        <nombre>Luis Hornos Rodríguez</nombre>
+        <sexo>hombre</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>82322924J</DNI>
+        <nombre>Teresa Rodríguez Cuadros</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>79299310W</DNI>
+        <nombre>Alba Cuadros Rajoy</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+    <listOfPeople>
+        <DNI>69699110W</DNI>
+        <nombre>Irene Torres Torres</nombre>
+        <sexo>mujer</sexo>
+    </listOfPeople>
+</listOfPeople>
